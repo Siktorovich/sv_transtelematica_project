@@ -5,7 +5,7 @@ Install package dependencies in your virtual environment:
 ```
 pip install -r requirements.txt
 ```
-Google Chrome browser is the most popular now. That's why my project call ChromeDriver for testing.
+Google Chrome browser is the most popular now. That's why my project calls ChromeDriver for testing.
 
 Find the correct driver version at https://sites.google.com/chromium.org/driver/
 On the page that opens, right-click on the file for Linux and copy the path to the file. 
